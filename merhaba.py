@@ -1,1 +1,1 @@
-print('2. dosya durumda Jenkinsin tepkisini ölçme')
+print('2. dosya durumda Jenkinsin tepkisini olcme')
